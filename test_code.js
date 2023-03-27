@@ -17,3 +17,5 @@ function printOdd(n) {
     }
 }
 // n을 입력하면 0부터 n까지 숫자중 홀수를 출력해주는 함수 - commit 2
+
+// 홀수들의 합을 구하는 기능을 만들기 위해 branch 개설
