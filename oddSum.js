@@ -9,4 +9,5 @@ function oddSum(n) {
 }
 // 홀수들의 합을 구해 return 해주는 기능 우여곡절 끝에 개발
 // 개발이 완료되었으니 oddSum branch에서 commit (commit 2-1)
-// 기능개발이 완료되었으니 main branch에 merge
+// 기능개발이 완료되었으니 main branch에 merge전 commit (commit 2-2)
+// main에 merge 완료 후 commit(commit 4) - 프로젝트 종료
