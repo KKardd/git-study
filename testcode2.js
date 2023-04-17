@@ -29,4 +29,4 @@ function EvenSum(n) {
 }
 
 // 그 도중 다른 기능(짝수들의 합을 구하는 기능)은 메인 branch에서 개발 commit 3
-// merge 테스트
+// merge 테스트 - end
