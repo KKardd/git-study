@@ -25,3 +25,12 @@ import "./oddSum.js";
 oddSum(5);
 
 // main branch에 merge후, import시켜주니 동작하는것을 확인. - commit 3
+
+// reject test for main
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+}
+
+for (let j = 0; j < 10; j++) {
+    console.log(j * j);
+}
